@@ -14,11 +14,9 @@ A simple and elegant Weather Application built with HTML, CSS, JavaScript, and P
 - ☁️ API: OpenWeatherMap  
 
  🚀 How to Run
-## 🚀 How to Run
-1. Clone the project
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+1.open project in pycharm
+  cd weather-app
+
 2.Install dependencies
 pip install -r requirements.txt
 
@@ -37,7 +35,6 @@ python manage.py runserver
 
 Open in Browser
 👉 http://127.0.0.1:8000/
-(if Django)
 
 
 👨‍💻 Author
